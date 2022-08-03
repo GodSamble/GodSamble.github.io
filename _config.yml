@@ -16,10 +16,10 @@ minimal_mistakes_skin    :  "aqua" # "air", "default", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "My Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "YM's blog"
 description              : "An amazing website."
 url                      : "https://GodSamble.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
